@@ -1,0 +1,17 @@
+.list {
+    display: flex; 
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.shop {
+    display: flex;
+    flex-direction: column;
+    flex-basis: 33%;
+    border: 1px dotted;
+}
+
+header {
+    text-align: center;
+    padding: 10px;
+}
